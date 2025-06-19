@@ -48,7 +48,8 @@ mia_admincontrol/
 │   └── script.js          # JavaScript functionality
 └── README.md              # This documentation
 ```
-
+# Preview: https://youtu.be/vZp8tLIkECU?si=IGoB8CKPRvnbHjgR
+# Purchase: https://miagamingdev.tebex.io/package/mia-advancedadmincontrol
 ## 🚀 Installation
 
 1. **Download** the `mia_admincontrol` folder to your server's `resources` directory
